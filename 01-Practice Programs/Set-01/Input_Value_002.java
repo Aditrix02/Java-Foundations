@@ -1,3 +1,10 @@
+/*
+* ProgramID : Input_Value_002
+* Author : Aditya Sinha
+* Description : Demonstrating User Input and Custom Output Values
+* Date : 22/10/25
+* */
+
 import java.util.Scanner;
 public class Input_Value_002 {
     public static void main(String[] args){
